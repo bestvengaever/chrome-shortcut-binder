@@ -1,4 +1,6 @@
 # Shortcut Binder Chrome Extension
+<img width="326" height="590" alt="Screenshot 2025-07-11 at 16 58 56" src="https://github.com/user-attachments/assets/75915c44-332a-49f2-bd2b-3a3ae19f1311" />
+
 
 A Chrome extension that allows you to create custom keyboard shortcuts to execute JavaScript commands on any webpage.
 
